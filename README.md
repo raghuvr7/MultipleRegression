@@ -13,7 +13,7 @@
 - Boombikes is a computer controlled bike sharing system which allows the users to use bikes for free or a certain price. They can input the payment options and pick the bikes from any of the dock stations and return it to one. 
 
 Business Problem:
-- Boombikes demand has taken a hit due to the Corona pandemic and is planning to come out of the pandemic much stronger and compete against most of the players to maximise profits and market share. In order to do this they trying to figure out which factors influence the demand for the shared bikes so that post pandemic they could benefit from the insights of the learnings and plan better.
+- Boombikes demand has taken a hit due to the Corona pandemic and is planning to come out of the pandemic much stronger and compete against most of the players to maximise profits and market share. In order to do this they trying to figure out which factors influence the demand for the shared bikes so that post pandemic they could benefit from the insights of the learnings and plan better.Also this model can be used to understand the demand dynamics of the new market.
 
 - What is the dataset that is being used?
 Bike Sharing Dataset
